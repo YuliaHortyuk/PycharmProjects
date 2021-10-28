@@ -1,0 +1,7 @@
+Ivanov 15000
+Sydorov 25000
+Petrov 21000
+Vasechkin 19000
+Svetikov 30000
+Pushkin 18000
+Lermontov 27000
